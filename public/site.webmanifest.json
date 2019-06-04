@@ -23,7 +23,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "./indel.html",
+    "start_url": "./index.html",
     "theme_color": "#fdfdfd",
     "background_color": "#fdfdfd",
     "display": "standalone"
