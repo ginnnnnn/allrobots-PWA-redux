@@ -24,3 +24,4 @@ applied PWA
 
 ### `App background`
 this app is mainly for google lighthouse test purpose to get the best pratice with PWA 
+![Screenshot](screenshot.png)
