@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05cc4e2d1a81947602aa39f545b7a5a6",
+    "revision": "beead7e82922b90b609c40a74e7f2dca",
     "url": "/allrobots-PWA-redux/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/allrobots-PWA-redux/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "69ca7a2d25b0d46a900d",
+    "revision": "8a4673bef08d901bfaa9",
     "url": "/allrobots-PWA-redux/static/css/main.2ce61031.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/allrobots-PWA-redux/static/js/2.5de90436.chunk.js"
   },
   {
-    "revision": "69ca7a2d25b0d46a900d",
-    "url": "/allrobots-PWA-redux/static/js/main.140f4a8e.chunk.js"
+    "revision": "8a4673bef08d901bfaa9",
+    "url": "/allrobots-PWA-redux/static/js/main.a273b81b.chunk.js"
   },
   {
     "revision": "d70fdbe7ea79bf471301",
