@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/allrobots-PWA-redux/precache-manifest.a5379e4c088fa2600ebc665158f0fe50.js"
+  "/allrobots-PWA-redux/precache-manifest.d2588ad6e211d68586d8648b85eca791.js"
 );
 
 self.addEventListener('message', (event) => {

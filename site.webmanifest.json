@@ -3,16 +3,32 @@
     "short_name": "All Robots",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "favicon.ico",
+            "sizes": "192x192",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-384x384.png",
-            "sizes": "384x384",
+            "src": "android-chrome-384x384.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
+    "start_url": "./indel.html",
     "theme_color": "#fdfdfd",
     "background_color": "#fdfdfd",
     "display": "standalone"
