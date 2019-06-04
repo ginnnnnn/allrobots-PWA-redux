@@ -1,4 +1,4 @@
-This is a simply project demonstrating how Flux pattern works and how rudux works
+This is a simply project demonstrating how Flux pattern works with redux. and PWA applied
 
 ## Dependencies
 
