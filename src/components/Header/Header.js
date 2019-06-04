@@ -7,7 +7,6 @@ class Header extends Component {
         return false
     }
     render() {
-        console.log('header')
         return (<div>
             <CounterButton color='yellow' />
             <h1> We Are All Robots</h1></div>)

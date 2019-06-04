@@ -3,7 +3,6 @@ import Card from "./Card";
 import Spinner from "../UI/Spinner/Spinner";
 
 const CardList = ({ robotsArray }) => {
-  console.log('cardList')
   const Cards = robotsArray.map(robot => {
     return <Card key={robot.created} robot={robot} />;
   });

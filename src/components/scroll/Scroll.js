@@ -1,7 +1,6 @@
 import React from "react";
 
 const Scroll = props => {
-  console.log('scroll')
   return (
     <div
       style={{ overflow: "scroll", height: "600px" }}
