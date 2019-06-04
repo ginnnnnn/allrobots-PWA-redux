@@ -21,7 +21,7 @@
     "predepoly": "npm run build",
     "depoly": "gh-pages -d build"
   },
-  "homepage": "https://github.com/ginnnnnn/allrobots-PWA-redux",
+  "homepage": "https://ginnnnnn.github.io/allrobots-PWA-redux",
   "eslintConfig": {
     "extends": "react-app"
   },
