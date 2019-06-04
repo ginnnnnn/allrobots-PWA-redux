@@ -44,7 +44,6 @@ class App extends Component {
       isPending,
       err
     } = this.props;
-    console.log(err);
     const filteredCards = robots.filter(robot => {
       return robot.name.toLowerCase().includes(searchField.toLowerCase());
     });
