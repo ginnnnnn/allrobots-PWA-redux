@@ -19,7 +19,6 @@ class CounterButton extends Component {
     }
 
     render() {
-        console.log(this.state.count)
         return <button color={this.props.color} onClick={this.onCounterClick}> Count:{this.state.count}</button>
     }
 }
